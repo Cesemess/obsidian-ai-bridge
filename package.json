@@ -1,0 +1,29 @@
+{
+  "name": "obsidian-ai-bridge",
+  "version": "1.0.0",
+  "description": "Seamless bridge connecting your Obsidian notes with Google NotebookLM and Gemini in the sidebar, with context menu actions, automatic notebook mapping, and Google search.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [
+    "obsidian",
+    "obsidian-plugin",
+    "notebooklm",
+    "gemini",
+    "google",
+    "ai",
+    "sidebar",
+    "context-menu"
+  ],
+  "author": "Cesemess",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cesemess/obsidian-ai-bridge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cesemess/obsidian-ai-bridge/issues"
+  },
+  "homepage": "https://github.com/Cesemess/obsidian-ai-bridge#readme"
+}
