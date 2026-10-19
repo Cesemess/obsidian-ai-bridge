@@ -1,7 +1,7 @@
 {
   "id": "google-ai-bridge",
   "name": "AI Bridge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.0.0",
   "description": "Seamless bridge connecting your notes with Google NotebookLM and Gemini in the sidebar, with context menu actions, automatic notebook mapping, and Google search.",
   "author": "Cesemess",
