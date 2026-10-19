@@ -63,11 +63,11 @@ You can bind hotkeys to any of these commands in Obsidian (**Settings** → **Ho
 
 | Command ID | Command Name (English) | Nazwa polecenia (Polski) |
 | :--- | :--- | :--- |
-| `ai-bridge:open-notebooklm-sidebar` | `NotebookLM: Open sidebar panel` | `NotebookLM: Otwórz panel boczny` |
-| `ai-bridge:open-gemini-sidebar` | `Gemini: Open sidebar panel` | `Gemini: Otwórz panel boczny` |
-| `ai-bridge:open-notebooklm-selection` | `NotebookLM: Send selection to sidebar` | `NotebookLM: Wyślij zaznaczenie do panelu bocznego` |
-| `ai-bridge:open-gemini-selection` | `Gemini: Send selection to Gemini in sidebar` | `Gemini: Wyślij zaznaczenie do Gemini w panelu bocznym` |
-| `ai-bridge:search-google-selection` | `Google: Search selection in external browser` | `Google: Szukaj zaznaczenia w zewnętrznej przeglądarce` |
+| `google-ai-bridge:open-notebooklm-sidebar` | `NotebookLM: Open sidebar panel` | `NotebookLM: Otwórz panel boczny` |
+| `google-ai-bridge:open-gemini-sidebar` | `Gemini: Open sidebar panel` | `Gemini: Otwórz panel boczny` |
+| `google-ai-bridge:open-notebooklm-selection` | `NotebookLM: Send selection to sidebar` | `NotebookLM: Wyślij zaznaczenie do panelu bocznego` |
+| `google-ai-bridge:open-gemini-selection` | `Gemini: Send selection to Gemini in sidebar` | `Gemini: Wyślij zaznaczenie do Gemini w panelu bocznym` |
+| `google-ai-bridge:search-google-selection` | `Google: Search selection in external browser` | `Google: Szukaj zaznaczenia w zewnętrznej przeglądarce`
 
 ---
 
