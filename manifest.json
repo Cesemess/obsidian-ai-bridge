@@ -3,7 +3,7 @@
   "name": "AI Bridge",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "Seamless bridge connecting your Obsidian notes with Google NotebookLM and Gemini in the sidebar, with context menu actions, automatic notebook mapping, and Google search.",
+  "description": "Seamless bridge connecting your notes with Google NotebookLM and Gemini in the sidebar, with context menu actions, automatic notebook mapping, and Google search.",
   "author": "Cesemess",
   "authorUrl": "https://github.com/Cesemess",
   "fundingUrl": "https://buymeacoffee.com/cesemess",
